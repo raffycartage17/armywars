@@ -1,4 +1,7 @@
 .idea/
+.venv/
+build/runtime/
+build/server*.log
 __pycache__/
 .vs/
 *.lnk
